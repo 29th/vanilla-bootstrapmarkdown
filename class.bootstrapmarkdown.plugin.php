@@ -3,7 +3,7 @@
 $PluginInfo['bootstrapmarkdown'] = array(
   'Name'        => "Bootstrap Markdown",
   'Description' => "Editor plugin for Vanilla using the Bootstrap Markdown jQuery plugin. For use with Bootstrap for Vanilla and other Bootstrap-based themes.",
-  'Version'     => '1.0.0',
+  'Version'     => '1.0.0.a',
   'PluginUrl'   => 'https://github.com/kasperisager/vanilla-bootstrapmarkdown',
   'Author'      => "Kasper Kronborg Isager",
   'AuthorEmail' => 'kasperisager@gmail.com',
